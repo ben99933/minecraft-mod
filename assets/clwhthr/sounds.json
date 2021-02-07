@@ -1,0 +1,4 @@
+{
+"emp_gun": {"category": "master","sounds": [{"name": "emp_gun","stream": false}]},
+"grenade": {"category": "master","sounds": [{"name": "grenade","stream": false}]}
+}

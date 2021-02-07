@@ -1,0 +1,61 @@
+﻿#creative tabs
+itemGroup.CLWhthr=青龍王獵手團模組
+
+#item
+item.pistol.name=手槍
+item.rifle.name=步槍
+item.shotgun.name=散彈槍
+item.rocket launcher.name=火箭筒
+item.pistol VIP.name=手槍(金版)
+item.rifle VIP.name=步槍(金版)
+item.shotgun VIP.name=散彈槍(金版)
+
+item.pistol bullet.name=手槍子彈
+item.rifle bullet.name=步槍子彈
+item.shotgun bullet.name=散彈槍子彈
+item.rocket.name=火箭
+item.grenade.name=手榴彈
+item.fire grenade.name=燃燒手榴彈
+item.wirecutter.name=破壞剪
+item.medical package.name=醫療包
+
+item.pickle meat.name=醃肉
+item.nitre.name=硝石
+item.sulfur.name=硫磺
+item.iron wire.name=鐵絲
+item.battery.name=電池
+item.vip paperwork.name=VIP證件
+item.pistol bullet blueprint.name=手槍子彈藍圖
+item.rifle bullet blueprint.name=步槍子彈藍圖
+item.shotgun bullet blueprint.name=散彈槍子彈藍圖
+item.rocket blueprint.name=火箭藍圖
+item.grenade blueprint.name=手榴彈藍圖
+item.fire grenade blueprint.name=燃燒手榴彈藍圖
+item.medal.name=勳章
+
+#armor
+item.soldier uniform helmet.name=軍服
+item.soldier uniform coat.name=軍服
+item.soldier uniform pants.name=軍服
+item.soldier uniform boots.name=軍服
+
+item.lieutenant uniform helmet.name=中尉軍服
+item.lieutenant uniform coat.name=中尉軍服
+item.lieutenant uniform pants.name=中尉軍服
+item.lieutenant uniform boots.name=中尉軍服
+
+item.colonel uniform helmet.name=中校軍服
+item.colonel uniform coat.name=中校軍服
+item.colonel uniform pants.name=中校軍服
+item.colonel uniform boots.name=中校軍服
+
+item.admiral uniform helmet.name=上將軍服
+item.admiral uniform coat.name=上將軍服
+item.admiral uniform pants.name=上將軍服
+item.admiral uniform boots.name=上將軍服
+
+#block
+tile.barbed wire.name=鐵絲網
+tile.sandbag.name=沙包
+tile.nitre ore.name=硝石礦
+tile.sulfur ore.name=硫礦

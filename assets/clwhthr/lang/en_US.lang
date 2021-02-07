@@ -1,0 +1,62 @@
+#creative tabs
+itemGroup.CLWhthr=CLWhthr
+
+#item
+item.pistol.name=pistol
+item.rifle.name=rifle
+item.shotgun.name=shotgun
+item.rocket launcher.name=rocket launcher
+item.pistol VIP.name=pistol(VIP)
+item.rifle VIP.name=rifle(VIP)
+item.shotgun VIP.name=shotgun(VIP)
+
+item.pistol bullet.name=pistol bullet
+item.rifle bullet.name=rifle bullet
+item.shotgun bullet.name=shotgun bullet
+item.rocket.name=rocket
+item.grenade.name=grenade
+item.fire grenade.name=fire grenade
+item.wirecutter.name=wirecutter
+item.medical package.name=medical package
+
+item.pickle meat.name=pickle meat
+item.nitre.name=nitre
+item.sulfur.name=sulfur
+item.iron wire.name=iron wire
+item.battery.name=battery
+item.vip paperwork.name=VIP paperwork
+item.pistol bullet blueprint.name=pistol bullet blueprint
+item.rifle bullet blueprint.name=rifle bullet blueprint
+item.shotgun bullet blueprint.name=shotgun bullet blueprint
+item.rocket blueprint.name=rocket blueprint
+item.grenade blueprint.name=grenade blueprint
+item.fire grenade blueprint.name=fire grenade blueprint
+item.medal.name=medal
+
+#armor
+item.soldier uniform helmet.name=soldier uniform
+item.soldier uniform coat.name=soldier uniform
+item.soldier uniform pants.name=soldier uniform
+item.soldier uniform boots.name=soldier uniform
+
+item.lieutenant uniform helmet.name=lieutenant uniform
+item.lieutenant uniform coat.name=lieutenant uniform
+item.lieutenant uniform pants.name=lieutenant uniform
+item.lieutenant uniform boots.name=lieutenant uniform
+
+item.colonel uniform helmet.name=colonel uniform
+item.colonel uniform coat.name=colonel uniform
+item.colonel uniform pants.name=colonel uniform
+item.colonel uniform boots.name=colonel uniform
+
+item.admiral uniform helmet.name=admiral uniform
+item.admiral uniform coat.name=admiral uniform
+item.admiral uniform pants.name=admiral uniform
+item.admiral uniform boots.name=admiral uniform
+
+
+#block
+tile.barbed wire.name=barbed wire
+tile.sandbag.name=sandbag
+tile.nitre ore.name=nitre ore
+tile.sulfur ore.name=sulfur ore
